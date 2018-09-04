@@ -1,0 +1,22 @@
+{
+  "name": "beginnodejs",
+  "version": "1.0.0",
+  "description": "Learning NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArielMejia/BeginNodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArielMejia/BeginNodeJS/issues"
+  },
+  "homepage": "https://github.com/ArielMejia/BeginNodeJS#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
